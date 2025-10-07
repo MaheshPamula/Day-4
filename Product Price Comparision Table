@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Product Pricing 2025</title>
+</head>
+<body>
+  <table border="1" cellpadding="8" cellspacing="0">
+    <caption><strong>Product Pricing 2025</strong></caption>
+
+    <colgroup>
+      <col> 
+      <col bgcolor="lightblue"> 
+      <col bgcolor="lightgreen"> 
+      <col bgcolor="lightyellow"> 
+    </colgroup>
+
+    <thead>
+      <tr>
+        <th>Feature</th>
+        <th>Redmi</th>
+        <th>Samsung</th>
+        <th>Realme</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>Price</td>
+        <td>9999</td>
+        <td>11499</td>
+        <td>8799</td>
+      </tr>
+      <tr>
+        <td>Storage</td>
+        <td>64 GB</td>
+        <td>128 GB</td>
+        <td>64 GB</td>
+      </tr>
+      <tr>
+        <td>Camera</td>
+        <td>48 MP</td>
+        <td>64 MP</td>
+        <td>50 MP</td>
+      </tr>
+      <tr>
+        <td>Battery</td>
+        <td>4500 mAh</td>
+        <td>5000 mAh</td>
+        <td>4200 mAh</td>
+      </tr>
+      <tr>
+        <td>Warranty</td>
+        <td>1 year</td>
+        <td>1 year + 6 months</td>
+        <td>1 year</td>
+      </tr>
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <td colspan="4"><strong>Best Value:</strong> Samsung is best for better storage, camera & battery</td>
+      </tr>
+    </tfoot>
+  </table>
+</body>
+</html>
