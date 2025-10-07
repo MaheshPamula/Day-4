@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Student Report Card</title>
+</head>
+<body>
+  <table border="1" cellpadding="8" cellspacing="0">
+    <caption><b>Student Report Card</b></caption>
+    
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Math</th>
+        <th>Science</th>
+        <th>English</th>
+        <th>Average</th>
+      </tr>
+    </thead>
+    
+    <tbody>
+      <tr>
+        <td>Sudhir</td>
+        <td>80</td>
+        <td>70</td>
+        <td>90</td>
+        <td>80</td>
+      </tr>
+      <tr>
+        <td>Mahesh</td>
+        <td>85</td>
+        <td>75</td>
+        <td>95</td>
+        <td>85</td>
+      </tr>
+      <tr>
+        <td>Rajasekhar</td>
+        <td>60</td>
+        <td>65</td>
+        <td>70</td>
+        <td>65</td>
+      </tr>
+      <tr>
+        <td>Sairam</td>
+        <td>90</td>
+        <td>85</td>
+        <td>95</td>
+        <td>90</td>
+      </tr>
+      <tr>
+        <td>Avinash</td>
+        <td>70</td>
+        <td>80</td>
+        <td>75</td>
+        <td>75</td>
+      </tr>
+    </tbody>
+    
+    <tfoot>
+      <tr>
+        <td colspan="4"><b>Total Average</b></td>
+        <td>79</td>
+      </tr>
+    </tfoot>
+  </table>
+</body>
+</html>
